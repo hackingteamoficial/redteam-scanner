@@ -6,20 +6,35 @@
 🚀 ¿Qué es esto?
 Un orquestador de reconocimiento todo-en-uno para Windows que automatiza la fase de information gathering en pruebas de penetración. ¡Integra las mejores herramientas open-source en un flujo único y elegante! ✨
 
+
 🔥 Características Principales
+
 🕵️ Descubrimiento Inteligente
+
 🔍 Escaneo de Puertos (Nmap + fallback TCP nativo)
+
 🌐 Detección Web (HTTPX ultrarrápido o PowerShell manual)
+
 🗂️ Subdominios (Integración con Subfinder)
+
 🚪 Fuzzing de Directorios (Gobuster con wordlists dinámicas)
+
 ⚡ Modo Resiliente
+
 🧠 Autodetección de herramientas instaladas
+
 🛟 Fallbacks nativos si faltan dependencias
+
 🎨 Logging colorido en tiempo real
+
 📊 Reportes automáticos con timestamps
+
 🛠️ Stack Tecnológico
+
 🔵 PowerShell 5.1+  |  🟢 Go Tools  |  🟡 Nmap  |  🔴 Nuclei
+
 📋 Flujo de Trabajo Visual
+
 🎯 Dominio Objetivo
     ↓
 🔧 Detección de Herramientas
@@ -29,15 +44,36 @@ Un orquestador de reconocimiento todo-en-uno para Windows que automatiza la fase
 🗂️ Subdominios ─────────┤    📝 Resumen Ejecutivo
 🚪 Fuzzing Directories ──┘    ⏱️  Métricas de Tiempo
     ↓
+
 🛡️ Análisis de Vulnerabilidades (Nuclei)
+
 🖥️ Requisitos del Sistema
 Componente	Estado	Descripción
-💻 Windows	✅ Obligatorio	PowerShell 5.1 o superior
-🌐 Nmap	⚡ Opcional	Escaneo avanzado de puertos
-🎯 Subfinder	⚡ Opcional	Enumeración DNS
-🚀 HTTPX	⚡ Opcional	Detección web rápida
-🚪 Gobuster	⚡ Opcional	Fuzzing de directorios
-⚠️ Nuclei	⚡ Opcional	Scanner de vulnerabilidades
+
+💻 Windows	
+
+✅ Obligatorio	PowerShell 5.1 o superior
+
+🌐 Nmap	
+
+⚡ Opcional	Escaneo avanzado de puertos
+
+🎯 Subfinder	
+
+⚡ Opcional	Enumeración DNS
+
+🚀 HTTPX	
+
+⚡ Opcional	Detección web rápida
+
+🚪 Gobuster	
+
+⚡ Opcional	Fuzzing de directorios
+
+⚠️ Nuclei	
+
+⚡ Opcional	Scanner de vulnerabilidades
+
 💡 Tip: Las herramientas Go se detectan automáticamente en %USERPROFILE%\go\bin\
 
 🎮 Modo de Uso
