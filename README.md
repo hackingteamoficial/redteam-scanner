@@ -1,6 +1,6 @@
 <img width="541" height="728" alt="1" src="https://github.com/user-attachments/assets/5fdf196f-286c-4952-a1e0-c167ff2ed905" />
 
-                              🎯 REDTEAM SCANNER 🛡️ PowerShell Toolkit para Evaluación de Seguridad Ofensiva By AnonSec777
+                        🎯 REDTEAM SCANNER 🛡️ PowerShell Toolkit para Evaluación de Seguridad Ofensiva By AnonSec777
 
 🚀 ¿Qué es esto?
 Un orquestador de reconocimiento todo-en-uno para Windows que automatiza la fase de information gathering en pruebas de penetración. ¡Integra las mejores herramientas open-source en un flujo único y elegante! ✨
