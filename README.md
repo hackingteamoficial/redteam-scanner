@@ -37,11 +37,11 @@ Un orquestador de reconocimiento todo-en-uno para Windows que automatiza la fase
 
 🎯 Dominio Objetivo
     
-    ↓
+↓
 
 🔧 Detección de Herramientas
     
-    ↓
+↓
 
 ⚡ 
 
