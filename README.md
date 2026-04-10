@@ -53,7 +53,7 @@ Escaneo de Puertos ───┐
 
 🚪 Fuzzing Directories ──┘    ⏱️  Métricas de Tiempo
     
-    ↓
+↓
 
 🛡️ Análisis de Vulnerabilidades (Nuclei)
 
